@@ -3,6 +3,3 @@ January 15th: Wrote Book class
 January 16th: Began work on Main class
 January 18th: Finished Main class
 January 19th: Fixed minor bugs
-
-Tic Tac Toe:
-January 20th: Began writing the classes
