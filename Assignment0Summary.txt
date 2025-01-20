@@ -1,2 +1,0 @@
-This asssingment was an ungraded review of the prequesite courses' content.
-We were tasked with created a Book class, and implementing it within the Main driver class.
