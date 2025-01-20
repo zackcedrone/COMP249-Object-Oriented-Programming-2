@@ -1,3 +1,4 @@
+//Created as an in-class assignment, January 20th
 public class Person {
 
     private String Name;
