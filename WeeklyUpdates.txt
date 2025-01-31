@@ -1,3 +1,4 @@
 Weekly updates:
 Week 1. (January 14th & 16th) Reviewing Java Concepts. Started Assignment 0.
-Week 2. (January 20th & 22nd) Reviewing Java class implementation. Finished Assignment 0, began work on TicTacToe
+Week 2. (January 20th & 22nd) Reviewing Java class implementation. Finished Assignment 0, and began work on a personal project, TicTacToe.
+Week 3. (January 27th & 29th) Finish reviews, and started learning about class inheritance. Finished TicTacToe, and began work on assignment 1. Also began work on a personal project, a Restaurant POS System.
